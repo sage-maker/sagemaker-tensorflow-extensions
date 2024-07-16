@@ -9,7 +9,7 @@ import botocore
 import glob
 import sys
 
-TF_VERSION = "2.16.1"
+TF_VERSION = "2.17.0"
 REGION = "us-west-2"
 REPOSITORY_NAME = "sagemaker-tensorflow-extensions-test"
 
