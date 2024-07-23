@@ -18,7 +18,6 @@ limitations under the License.
 
 #include <stddef.h>
 
-
 namespace tsl {
 namespace crc32c {
 
