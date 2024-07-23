@@ -18,7 +18,9 @@ limitations under the License.
 
 #include <stddef.h>
 
-// #include "tensorflow/tsl/lib/hash/crc32c.h"
+#include "tensorflow/core/platform/cord.h"
+#include "tensorflow/core/platform/platform.h"
+#include "tensorflow/core/platform/types.h"
 #include "tsl/lib/hash/crc32c.h"
 
 namespace tensorflow {
