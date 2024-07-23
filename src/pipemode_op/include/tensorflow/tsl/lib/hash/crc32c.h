@@ -18,7 +18,7 @@ limitations under the License.
 
 #include <stddef.h>
 
-#include "tensorflow/tsl/lib/hash/crc32c.h"
+#include "tsl/lib/hash/crc32c.h"
 
 namespace tsl {
 namespace crc32c {
